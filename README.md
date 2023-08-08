@@ -1,6 +1,7 @@
 # TinyTodo - OPAL and Cedar Agent fork
 
-TinyTodo is a simple application for managing task lists. It uses OPAL and Cedar agent to control who has access to what.
+TinyTodo is a simple application for managing task lists. It uses [OPAL](https://github.com/permitio/opal) and [Cedar Agent](https://github.com/permitio/cedar-agent) to control who has access to what.
+It is the Cedar Agent fork of the original [TinyTodo app](https://github.com/cedar-policy/cedar-examples/tree/main/tinytodo) adapted to use OPAL and Cedar Agent by [Permit.io team](https://permit.io).
 
 TinyTodo allows individuals, called `Users` to organize, track, and share their todo lists. `Users` create `Lists` which they can populate with tasks. As tasks are completed, they can be checked off the list. A list's creater, called its _owner_, can share a list with either `User`s or `Team`s, either as a _reader_ or an _editor_. A reader can only view the contents of a list, while an editor can modify it (e.g., add tasks, or check them off the list).
 
