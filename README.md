@@ -4,7 +4,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/permitio/Galactic-Health-Corporation/assets/4082578/56794ab6-8ae6-4676-bba7-8d38eeeb1c89">
       <img src="https://github.com/permitio/Galactic-Health-Corporation/assets/4082578/c1f1540b-083a-4a12-9b7b-8a02884db3db" height="128">
     </picture>
-    <h1 align="center">TinyTodo<br />OPAL and Cedar Agent demo</h1>
+    <h1 align="center">TinyTodo - OPAL and Cedar Agent Demo</h1>
   </a>
 </div>
 
