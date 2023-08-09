@@ -1,4 +1,12 @@
-# TinyTodo - OPAL and Cedar Agent demo
+<div align="center">
+  <a href="https://www.permit.io/?utm_source=github&utm_medium=referral&utm_campaign=ghc">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/permitio/Galactic-Health-Corporation/assets/4082578/56794ab6-8ae6-4676-bba7-8d38eeeb1c89">
+      <img src="https://github.com/permitio/Galactic-Health-Corporation/assets/4082578/c1f1540b-083a-4a12-9b7b-8a02884db3db" height="128">
+    </picture>
+    <h1 align="center">TinyTodo<br />OPAL and Cedar Agent demo</h1>
+  </a>
+</div>
 
 TinyTodo is a simple application for managing task lists. It uses [OPAL](https://github.com/permitio/opal) and [Cedar Agent](https://github.com/permitio/cedar-agent) to control who has access to what.
 It is the Cedar Agent fork of the original [TinyTodo app](https://github.com/cedar-policy/cedar-examples/tree/main/tinytodo) adapted to use OPAL and Cedar Agent by [Permit.io team](https://permit.io).
