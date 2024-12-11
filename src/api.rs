@@ -304,8 +304,8 @@ where
 
 fn respond(msg: Result<impl Serialize, Error>) -> impl warp::Reply {
     match msg {
-        Ok(msg) => Ok(warp::reply::json(&msg)),
-        Err(error) => Ok(warp::reply::json(&ErrorMsg { error })),
+        Ok(msg) => warp::reply::json(&msg),
+        Err(error) => warp::reply::json(&ErrorMsg { error }),
     }
 }
 
